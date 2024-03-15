@@ -1,0 +1,16 @@
+:root {
+    --color1: rgb(46, 48, 129);
+    --color2: rgb(92, 94, 238);
+}
+
+body {
+    background-color: rgb(184, 185, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    color: var(--color1);
+}
