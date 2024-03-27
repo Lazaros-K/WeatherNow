@@ -1,1 +1,1 @@
-A Simple weather web app that works with the help of a weather api (https://www.weatherapi.com).
+A Simple weather web app that displays current weather with the help of an api. Weather api link: (https://www.weatherapi.com).
